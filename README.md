@@ -12,7 +12,8 @@ This project uses the [Fruit-360](https://www.kaggle.com/datasets/moltean/fruits
 - ✅ Resize images to 100x100 pixels
 - ✅ Data augmentation (flip, rotate, zoom, shift)
 - ✅ Training and validation graphs
-  
+- ✅ **Basic CNN using Functional API**  
+- ✅ **Residual CNN (ResNet-like structure)**
 ---
 
 ## 📊 Technologies Used
