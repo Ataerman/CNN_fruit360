@@ -14,6 +14,7 @@ This project uses the [Fruit-360](https://www.kaggle.com/datasets/moltean/fruits
 - ✅ Training and validation graphs
 - ✅ **Basic CNN using Functional API**  
 - ✅ **Residual CNN (ResNet-like structure)**
+- ✅  Transfer Learning VGG16 ( imagenet )
 ---
 
 ## 📊 Technologies Used
